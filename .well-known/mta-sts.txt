@@ -1,5 +1,4 @@
 version: STSv1
 mode: testing
-mx: modernit-pro.mail.protection.outlook.com
 mx: modernit-pro.i-v1.mx.microsoft
 max_age: 86400
